@@ -99,8 +99,9 @@ Implemented a **deep learning model** to predict river meandering patterns using
 
 ## GitHub Analytics  
 
-![Tharushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT21174230&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21174230&layout=compact&theme=default)
+![Tharushi's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IT21174230&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IT21174230&layout=compact&theme=default)
+
 
 ---
 
