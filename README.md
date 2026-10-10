@@ -28,11 +28,12 @@ CGPA: 3.2 | WGPA: 3.38 | GPA: 3.72
 
 ## Professional Experience  
 
-### AI Developer — Sunchain Technologies (Neuball)  
+### AI Developer — sixn.ai  
 **Nov 2025 – Present**  
 - Developed automation workflows with **n8n** and **Odoo CRM**.  
 - Built **3D interactive interfaces** using **React.js** and **Babylon.js**.  
-- Collaborated with designers and developers to enhance customer engagement pipelines.
+- Designed and developed Logiclaw platform, an AI assisted freight forwarding software that optimizes employee collaboration and provides smoother workflows.
+- Designed and developed Portwatch, a container tracking and operations solution for shippers.
 
 ### Intern AI Developer — Global Rubber Industries (Pvt) Ltd  
 **Aug 2025 – Nov 2025**  
